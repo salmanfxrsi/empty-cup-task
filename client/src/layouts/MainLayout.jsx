@@ -1,10 +1,13 @@
 import { Outlet } from "react-router-dom";
+import Navbar from "../components/shared/Navbar";
 
 const MainLayout = () => {
   return (
-    <div>
+    <div className="mt-8">
       {/* Navbar */}
-      <nav></nav>
+      <nav className="container mx-auto">
+        <Navbar />
+      </nav>
 
       {/* Main Content */}
       <main>
