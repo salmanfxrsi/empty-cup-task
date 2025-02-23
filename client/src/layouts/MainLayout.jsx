@@ -11,7 +11,7 @@ const MainLayout = () => {
       </nav>
 
       {/* Main Content */}
-      <main className="h-screen">
+      <main className="py-24">
         <Outlet />
       </main>
 

@@ -1,17 +1,26 @@
 [
   {
+    "_id": "0",
     "name": "John Doe",
     "title": "CEO, TechCorp",
-    "image": "/images/john-doe.jpg"
+    "image": "https://i.ibb.co.com/rfHvBVCh/download.jpg"
   },
   {
+    "_id": "1",
     "name": "Jane Smith",
     "title": "CTO, FutureAI",
-    "image": "/images/jane-smith.jpg"
+    "image": "https://i.ibb.co.com/QF9Zvn2h/images.jpg"
   },
   {
+    "_id": "2",
     "name": "Michael Brown",
     "title": "Lead Engineer, Web3 Inc.",
-    "image": "/images/michael-brown.jpg"
+    "image": "https://i.ibb.co.com/gLT6YWCJ/istockphoto-520959651-612x612.jpg"
+  },
+  {
+    "_id": "3",
+    "name": "Salman Farsi",
+    "title": "MERN Stack Developer",
+    "image": "https://i.ibb.co.com/XfF5Lb03/174197862.jpg"
   }
 ]
