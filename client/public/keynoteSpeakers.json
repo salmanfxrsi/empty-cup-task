@@ -1,0 +1,17 @@
+[
+  {
+    "name": "John Doe",
+    "title": "CEO, TechCorp",
+    "image": "/images/john-doe.jpg"
+  },
+  {
+    "name": "Jane Smith",
+    "title": "CTO, FutureAI",
+    "image": "/images/jane-smith.jpg"
+  },
+  {
+    "name": "Michael Brown",
+    "title": "Lead Engineer, Web3 Inc.",
+    "image": "/images/michael-brown.jpg"
+  }
+]
