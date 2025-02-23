@@ -5,5 +5,10 @@
   font-family: "Inter", serif;
 }
 
+.active {
+  color: brown;
+  font-weight: 800
+}
+
 @import "tailwindcss";
 @plugin "daisyui";

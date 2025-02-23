@@ -6,8 +6,8 @@ const Navbar = () => {
       <NavLink to="/">Home</NavLink>
       <NavLink to="speakers">Speakers</NavLink>
       <NavLink to="schedule">Schedule</NavLink>
-      <NavLink>About</NavLink>
-      <NavLink>Contact</NavLink>
+      <NavLink to="about">About</NavLink>
+      <NavLink to="contact">Contact</NavLink>
     </>
   );
 
@@ -20,20 +20,17 @@ const Navbar = () => {
           src="https://i.ibb.co.com/kV2MDDKC/small-logo.png"
           alt="EmptyCup Logo"
         />
-        <h1 className="text-2xl font-bold text-[#2e2e2e]">
-          EmptyCup TechVerse
-        </h1>
+        <h1 className="text-2xl font-bold text-[#2e2e2e]">TechVerse</h1>
       </div>
 
       {/* Navigation Links */}
       <nav className="flex gap-6 text-[#2e2e2e]">{navigationLinks}</nav>
 
-      {/* Auth Buttons */}
+      {/* Powered By */}
       <div className="flex items-center gap-8">
-        <button className="text-[#2e2e2e]">Login</button>
-        <button className="bg-[#995448] text-white py-2 px-6 rounded-3xl">
-          Sign Up
-        </button>
+        <div className="bg-[#995448] text-white py-2 px-6 rounded-3xl">
+          Powered By EmptyCup
+        </div>
       </div>
     </div>
   );
