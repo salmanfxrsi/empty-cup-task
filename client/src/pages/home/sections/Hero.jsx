@@ -4,12 +4,12 @@ const Hero = () => {
       {/* Hero Contents */}
       <div>
         <h5 className="text-[#151515] font-medium text-xl">
-          Startup Nexus Innovate Launch Scale Fast
+          Tech Innovation Future Growth
         </h5>
         <h1 className="text-2xl lg:text-5xl font-bold mt-6 leading-tight">
-          From Vision to Venture
+          Bridging Ideas To
           <br />
-          Pioneering the Future of Innovation
+          Reality Shaping Tomorrow
         </h1>
         <button className="mt-9 bg-[#995448] text-white py-2 px-6 rounded-3xl transition-all hover:bg-[#7a3c35]">
           Register Now
@@ -20,12 +20,12 @@ const Hero = () => {
       <div>
         <iframe
           className="rounded-2xl w-[440px] h-[240px] lg:w-[560px] lg:h-[315px]"
-          src="https://www.youtube.com/embed/LNoEQ0Ig9LY?si=Bkc0H12sTKnAZ-1l"
+          src="https://www.youtube.com/embed/N5oDgHLTEDI?si=bfbF1wIFI5Bg0B2w"
           title="YouTube video player"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           referrerPolicy="strict-origin-when-cross-origin"
-          allowFullScreen
+          allowfullscreen
         ></iframe>
       </div>
     </div>
