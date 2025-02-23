@@ -12,7 +12,7 @@ const Speakers = () => {
   });
 
   return (
-    <div className="container mx-auto grid grid-cols-2 gap-14">
+    <div className="w-11/12 lg:container mx-auto grid 2xl:grid-cols-2 gap-14">
       {speakers.map((speaker) => (
         <div key={speaker._id} className="flex gap-6">
           {/* Speaker Image */}

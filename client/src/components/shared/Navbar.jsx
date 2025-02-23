@@ -6,6 +6,7 @@ const Navbar = () => {
       <NavLink to="/">Home</NavLink>
       <NavLink to="speakers">Speakers</NavLink>
       <NavLink to="schedule">Schedule</NavLink>
+      <NavLink to="sponsors">Sponsors</NavLink>
       <NavLink to="about">About</NavLink>
       <NavLink to="contact">Contact</NavLink>
     </>
@@ -24,11 +25,13 @@ const Navbar = () => {
       </div>
 
       {/* Navigation Links */}
-      <nav className="flex gap-6 text-[#2e2e2e]">{navigationLinks}</nav>
+      <nav className="flex gap-6 text-[#2e2e2e] flex-wrap justify-center">
+        {navigationLinks}
+      </nav>
 
       {/* Powered By */}
       <div className="flex items-center gap-8">
-        <div className="bg-[#995448] text-white py-2 px-6 rounded-3xl">
+        <div className="bg-amber-800 text-white py-2 px-6 rounded-3xl">
           Powered By EmptyCup
         </div>
       </div>
