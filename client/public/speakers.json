@@ -1,0 +1,37 @@
+[
+  {
+    "_id": 0,
+    "name": "Dr. Sarah Johnson",
+    "image": "https://i.ibb.co/5X9kwxhw/Untitled-design-1.webp",
+    "title": "Lead Researcher",
+    "bio": "Dr. Sarah Johnson is an AI expert who has published many papers and leads innovative projects focused on advancing artificial intelligence technology."
+  },
+  {
+    "_id": 1,
+    "name": "Mr. Robert Smith",
+    "image": "https://i.ibb.co/QF9Zvn2h/images.jpg",
+    "title": "Entrepreneur & Author",
+    "bio": "Mr. Robert Smith is a successful entrepreneur with a passion for technology. He writes books on entrepreneurship and speaks at many conferences."
+  },
+  {
+    "_id": 2,
+    "name": "Dr. Emily Davis",
+    "image": "https://i.ibb.co/5X9kwxhw/Untitled-design-1.webp",
+    "title": "Data Scientist",
+    "bio": "Dr. Emily Davis specializes in data analytics and machine learning. She collaborates with Fortune 500 companies to enhance their data strategies."
+  },
+  {
+    "_id": 3,
+    "name": "Ms. Jennifer Lee",
+    "image": "https://i.ibb.co/QF9Zvn2h/images.jpg",
+    "title": "UX Designer",
+    "bio": "Ms. Jennifer Lee is a talented UX designer known for her user-friendly applications. She believes in design's power to enhance user experiences."
+  },
+  {
+    "_id": 4,
+    "name": "Mr. David Brown",
+    "image": "https://i.ibb.co/QF9Zvn2h/images.jpg",
+    "title": "Cybersecurity Expert",
+    "bio": "Mr. David Brown has over a decade of cybersecurity experience. He educates others on the importance of online safety and security practices."
+  }
+]
