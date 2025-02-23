@@ -10,7 +10,7 @@ const Footer = () => {
             alt="Empty Cup Logo"
           />
           <p>
-            Empty Cup
+            EmptyCup TechVerse
             <br />
             1000+ houses designed since January 2020
           </p>
@@ -47,7 +47,7 @@ const Footer = () => {
         <aside>
           <p>
             Copyright &copy; {new Date().getFullYear()} - All rights reserved by
-            Empty Cup Ltd
+            EmptyCup TechVerse Ltd
           </p>
         </aside>
       </footer>

@@ -21,7 +21,9 @@ const Navbar = () => {
           src="https://i.ibb.co.com/kV2MDDKC/small-logo.png"
           alt="EmptyCup Logo"
         />
-        <h1 className="text-2xl font-bold text-[#2e2e2e]">EmptyCup</h1>
+        <h1 className="text-2xl font-bold text-[#2e2e2e]">
+          EmptyCup TechVerse
+        </h1>
       </div>
 
       {/* Navigation Links */}
