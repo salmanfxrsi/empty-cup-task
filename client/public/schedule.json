@@ -1,0 +1,58 @@
+[
+  {
+    "_id": 0,
+    "date": "2025-05-01",
+    "time": "09:00 AM",
+    "topic": "Opening Keynote: The Future of Technology",
+    "speaker": "Dr. Sarah Johnson"
+  },
+  {
+    "_id": 1,
+    "date": "2025-05-01",
+    "time": "10:30 AM",
+    "topic": "Understanding AI and Machine Learning",
+    "speaker": "Mr. Robert Smith"
+  },
+  {
+    "_id": 2,
+    "date": "2025-05-01",
+    "time": "01:00 PM",
+    "topic": "Data Privacy in the Digital Age",
+    "speaker": "Dr. Emily Davis"
+  },
+  {
+    "_id": 3,
+    "date": "2025-05-01",
+    "time": "02:30 PM",
+    "topic": "Designing User-Centric Applications",
+    "speaker": "Ms. Jennifer Lee"
+  },
+  {
+    "_id": 4,
+    "date": "2025-05-02",
+    "time": "09:00 AM",
+    "topic": "Cybersecurity Best Practices",
+    "speaker": "Mr. David Brown"
+  },
+  {
+    "_id": 5,
+    "date": "2025-05-02",
+    "time": "10:30 AM",
+    "topic": "Innovations in Data Science",
+    "speaker": "Dr. Emily Davis"
+  },
+  {
+    "_id": 6,
+    "date": "2025-05-02",
+    "time": "01:00 PM",
+    "topic": "The Impact of Technology on Society",
+    "speaker": "Mr. Robert Smith"
+  },
+  {
+    "_id": 7,
+    "date": "2025-05-02",
+    "time": "02:30 PM",
+    "topic": "Building Intuitive User Interfaces",
+    "speaker": "Ms. Jennifer Lee"
+  }
+]
