@@ -3,6 +3,7 @@ import MainLayout from "../layouts/MainLayout";
 import Home from "../pages/home/Home";
 import Speakers from "../pages/speakers/Speakers";
 import Schedule from "../pages/schedule/Schedule";
+import About from "../pages/about/about";
 
 const router = createBrowserRouter([
   {
@@ -20,6 +21,10 @@ const router = createBrowserRouter([
       {
         path: "schedule",
         element: <Schedule />,
+      },
+      {
+        path: "about",
+        element: <About />,
       },
     ],
   },
