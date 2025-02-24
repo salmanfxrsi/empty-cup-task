@@ -5,6 +5,7 @@ import Speakers from "../pages/speakers/Speakers";
 import Schedule from "../pages/schedule/Schedule";
 import About from "../pages/about/about";
 import Contact from "../pages/contact/Contact";
+import Sponsors from "../pages/sponsors/Sponsors";
 
 const router = createBrowserRouter([
   {
@@ -22,6 +23,10 @@ const router = createBrowserRouter([
       {
         path: "schedule",
         element: <Schedule />,
+      },
+      {
+        path: "sponsors",
+        element: <Sponsors />,
       },
       {
         path: "about",
